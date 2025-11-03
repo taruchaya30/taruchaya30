@@ -26,13 +26,18 @@ Here are some ideas to get you started:
 
 ---
 
+
 ## 👋 About Me  
 
-Hi, I'm **Taruchaya Shanker**, a final-year **BCA (Data Science)** student at **Shri Ramswaroop Memorial University, Lucknow**.  
+I’m **Taruchaya Shanker**, a passionate and detail-oriented **Data Analyst** with strong proficiency in  
+**SQL**, **PostgreSQL**, **Excel**, **Power BI**, and **Python (basic)**.  
 
-I’m passionate about **data analytics**, **visual storytelling**, and **business intelligence**. I love working with data to uncover insights that drive meaningful decisions.  
+💡 I specialize in **data cleaning**, **ETL processes**, **data modeling**, and **database management**, applying these skills to academic and personal projects that uncover meaningful insights.  
 
-I specialize in **SQL**, **Power BI**, and **Excel**, and I’m expanding my skills in **Python**, **data visualization**, and **dashboard design**.
+📊 I enjoy creating **interactive dashboards**, **data reports**, and **business intelligence solutions** that help visualize key performance metrics and drive **data-informed decisions**.  
+
+🌐 Alongside my data expertise, I’m experienced in **web development** using **HTML**, **CSS**, **JavaScript**, and **ReactJS**, allowing me to build and deploy **interactive, data-driven applications**.  
+
 
 💡 *“My mission is to turn raw data into impactful stories that inspire action.”*
 
@@ -140,8 +145,6 @@ Communication • Team Collaboration • Leadership • Problem Solving • Anal
 
 ---
 
-### 🧩 Quote
-> “Data is the new oil — but analytics is the engine that makes it valuable.”
 
 ---
 
