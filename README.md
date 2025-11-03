@@ -61,7 +61,7 @@ I’m **Taruchaya Shanker**, a passionate and detail-oriented **Data Analyst** w
 | **SQL & PostgreSQL** | Data Querying, Joins, CTEs, Window Functions |
 | **Power BI** | DAX, Data Modeling, Interactive Dashboards, KPIs |
 | **MS Excel** | Pivot Tables, Power Query, Charts, Visualization |
-| **Python (Basic)** | Pandas, NumPy, Matplotlib |
+| **Python** | Currently learning and developing Python skills for data analysis and visualization |
 | **ETL & Data Cleaning** | Data Preparation, Transformation & Integration |
 
 ### 💻 Additional Technical Skills  
